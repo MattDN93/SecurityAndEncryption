@@ -1,0 +1,6 @@
+﻿  212503024_Feistel.cpp
+c:\users\matt\documents\visual studio 2013\projects\feistelcipherse\feistelcipherse\212503024_feistel.cpp(135): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2013\projects\feistelcipherse\feistelcipherse\212503024_feistel.cpp(136): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2013\projects\feistelcipherse\feistelcipherse\212503024_feistel.cpp(210): warning C4018: '<' : signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2013\projects\feistelcipherse\feistelcipherse\212503024_feistel.cpp(228): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+  FeistelCipherSE.vcxproj -> C:\Users\Matt\documents\visual studio 2013\Projects\FeistelCipherSE\Debug\FeistelCipherSE.exe
