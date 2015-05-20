@@ -1,0 +1,13 @@
+﻿  212503024_HillCipherSE.cpp
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(21): error C2664: 'std::vector<std::vector<double,std::allocator<_Ty>>,std::allocator<std::vector<_Ty,std::allocator<_Ty>>>>::vector(std::initializer_list<std::vector<_Ty,std::allocator<_Ty>>>,const std::allocator<std::vector<_Ty,std::allocator<_Ty>>> &)' : cannot convert argument 1 from 'initializer-list' to 'unsigned int'
+          with
+          [
+              _Ty=double
+          ]
+          Only an initializer-list with zero or one elements can be converted to this type
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(145): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(235): warning C4018: '<' : signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(237): warning C4018: '<' : signed/unsigned mismatch
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(295): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\matt\documents\visual studio 2013\projects\hillcipherse\hillcipherse\212503024_hillcipherse.cpp(339): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
